@@ -43,7 +43,7 @@
       "fy": 93.26393605641402,
       "nodes": [
         {
-          "text": "1. the promise of a burger party  ️",
+          "text": "17: the promise of a burger party  ️",
           "url": "https://kosamari.com/notes/the-promise-of-a-burger-party",
           "fx": 227.54780190677968,
           "fy": 104.76393605641402,
@@ -52,10 +52,10 @@
           "color": "rgba(175, 54, 242, 1.0)"
         },
         {
-         "text": "2. Promises, Syntax, Races, and All YouTube Playlist",
+         "text": "17: Promises, Syntax, Races, and All YouTube Playlist",
           "url": "https://www.youtube.com/watch?v=SmPouEFKOBg&list=PLyuRouwmQCjngZXVn48vYmPK_1yAF-fLw",
           "nodes": [],
-          "category": "video tutorial playlist",
+          "category": "video tutorials",
           "color": "rgba(175, 54, 242, 1.0)"
         }
       ]
